@@ -55,10 +55,23 @@ Here you’ll find a mix of academic, personal, and experimental projects. 🚀
 
 ---
 
+---
+
+
+
+
 ## 🌍 Networking
 ![Cisco](https://img.shields.io/badge/Cisco-%231BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white)  
 ![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-%231BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white)  
 
 ---
+
+---
+
+## 📊 GitHub Stats
+![Jihane's GitHub stats](https://github-readme-stats.vercel.app/api?username=jih7ne&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jih7ne&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=jih7ne&theme=radical)
+
 
 ⭐️ Feel free to check out my projects and connect!
