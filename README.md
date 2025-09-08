@@ -69,9 +69,8 @@ Here you’ll find a mix of academic, personal, and experimental projects. 🚀
 ---
 
 ## 📊 GitHub Stats
-![Jihane's GitHub stats](https://github-readme-stats.vercel.app/api?username=jih7ne&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jih7ne&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=jih7ne&theme=radical)
+
 
 
 ⭐️ Feel free to check out my projects and connect!
