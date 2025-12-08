@@ -1,5 +1,5 @@
  
-# 👋 Hi there, I'm Jihane  
+#  Hi there, I'm Jihane  
 
 Welcome to my GitHub profile!  
 I'm passionate about **software development, backend systems, and data-driven projects**.  
@@ -7,7 +7,7 @@ Here you’ll find a mix of academic, personal, and experimental projects. 🚀
 
 ---
 
-## 🖥️ Languages
+##  Languages
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -20,7 +20,7 @@ Here you’ll find a mix of academic, personal, and experimental projects. 🚀
 
 ---
 
-## ⚙️ Frameworks & Libraries
+## Frameworks & Libraries
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
@@ -30,7 +30,7 @@ Here you’ll find a mix of academic, personal, and experimental projects. 🚀
 
 ---
 
-## 🛠️ Tools & Platforms
+##  Tools & Platforms
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
@@ -41,17 +41,13 @@ Here you’ll find a mix of academic, personal, and experimental projects. 🚀
 
 ---
 
-## 🗄️ Databases
+##  Databases
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
-## 📊 Big Data & Analytics
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white)
-![MLlib](https://img.shields.io/badge/Spark%20ML-%23E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white)
-![Apache Zeppelin](https://img.shields.io/badge/Apache%20Zeppelin-%232F67A8.svg?style=for-the-badge&logo=apache&logoColor=white)
 
 ---
 
@@ -60,7 +56,7 @@ Here you’ll find a mix of academic, personal, and experimental projects. 🚀
 
 
 
-## 🌍 Networking
+##  Networking
 ![Cisco](https://img.shields.io/badge/Cisco-%231BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white)  
 ![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-%231BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white)  
 
@@ -68,9 +64,7 @@ Here you’ll find a mix of academic, personal, and experimental projects. 🚀
 
 ---
 
-## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jih7ne&layout=compact&theme=radical)  
 
 
 
-⭐️ Feel free to check out my projects and connect!
+ Feel free to check out my projects and connect!
