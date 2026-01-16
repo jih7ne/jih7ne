@@ -58,15 +58,7 @@ Here you'll find a mix of academic, personal, and experimental projects.
 
 ---
 
-## My Contribution Graph (where bugs go to die)
 
-![](https://github-readme-stats.vercel.app/api?username=jih7ne&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=jih7ne&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F)
-
-*Powered by caffeine and Stack Overflow since [YEAR]*
-
----
 
 ## Current Focus
 - Working on backend systems and scalable architectures
