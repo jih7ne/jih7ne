@@ -18,7 +18,7 @@ Here you'll find a mix of academic, personal, and experimental projects.
 
 ## Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jih7ne&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jih7ne&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
 
 ---
 
