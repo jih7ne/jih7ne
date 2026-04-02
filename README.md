@@ -1,20 +1,32 @@
-# Hi there, I'm Jihane  
-Welcome to my GitHub profile!  
-I'm passionate about **software development, backend systems, and data-driven projects**.  
+# Hi there, I'm Jihane 👋
+
+Welcome to my GitHub profile!
+
+I'm passionate about **software development, backend systems, and data-driven projects**.
+
 Here you'll find a mix of academic, personal, and experimental projects.
 
 ---
 
 ## Connect With Me
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://jihane-chouhe-portfolio.vercel.app)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jihane-chouhe-09a29a319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ---
 
+## Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jih7ne&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
 ## Languages
+
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -25,6 +37,7 @@ Here you'll find a mix of academic, personal, and experimental projects.
 ---
 
 ## Frameworks & Libraries
+
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
@@ -35,6 +48,7 @@ Here you'll find a mix of academic, personal, and experimental projects.
 ---
 
 ## Tools & Platforms
+
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
@@ -46,6 +60,7 @@ Here you'll find a mix of academic, personal, and experimental projects.
 ---
 
 ## Databases
+
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -53,20 +68,20 @@ Here you'll find a mix of academic, personal, and experimental projects.
 ---
 
 ## Networking
-![Cisco](https://img.shields.io/badge/Cisco-%231BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white)  
-![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-%231BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white)  
+
+![Cisco](https://img.shields.io/badge/Cisco-%231BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white)
+![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-%231BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white)
 
 ---
 
-
-
 ## Current Focus
+
 - Working on backend systems and scalable architectures
 - Learning advanced DevOps practices
 - Exploring AI/ML integration in web applications
-- My code works better after midnight
+- My code works better after midnight 🌙
 
 ---
 
-Feel free to check out my projects and connect!  
-Let's collaborate on something awesome!
+Feel free to check out my projects and connect!
+Let's collaborate on something awesome! 🚀
