@@ -6,18 +6,6 @@ Here you'll find a blend of enterprise architectures, data-driven projects, and 
 
 ---
 
-## Quick Stats & Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jih7ne&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jih7ne&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
----
-
 ## My Tech Stack
 
 ### Languages & Core Ecosystems
