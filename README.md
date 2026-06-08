@@ -1,6 +1,6 @@
 # Hi there, I'm Jihane
 
-Welcome to my GitHub profile! I am a Computer Engineering Student focused on backend systems, distributed cloud architectures, machine learning workflows, and scalable enterprise solutions.
+Welcome to my GitHub profile! I am a Software Engineer focused on backend systems, distributed cloud architectures, machine learning workflows, and scalable enterprise solutions.
 
 Here you'll find a blend of enterprise architectures, data-driven projects, and personal experiments.
 
@@ -9,8 +9,11 @@ Here you'll find a blend of enterprise architectures, data-driven projects, and 
 ## Quick Stats & Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jih7ne&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Langs" height="165px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=jih7ne&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jih7ne&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jih7ne&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 ---
@@ -32,6 +35,7 @@ Here you'll find a blend of enterprise architectures, data-driven projects, and 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![JEE](https://img.shields.io/badge/Jakarta%20EE-E32929?style=for-the-badge&logo=oracle&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white)
 
 ### Data Science & Machine Learning
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
