@@ -1,6 +1,6 @@
 # Hi there, I'm Jihane
 
-Welcome to my GitHub profile! I am a Software Engineer focused on backend systems, distributed cloud architectures, machine learning workflows, and scalable enterprise solutions.
+Welcome to my GitHub profile! I am a Computer Engineering Student focused on backend systems, distributed cloud architectures, machine learning workflows, and scalable enterprise solutions.
 
 Here you'll find a blend of enterprise architectures, data-driven projects, and personal experiments.
 
